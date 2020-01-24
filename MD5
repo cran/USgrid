@@ -1,0 +1,14 @@
+39a204b1fe7f562edc1941c82f36d42e *DESCRIPTION
+0e0cb2e21db63dd20f34cc7a5d0b8e29 *LICENSE
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+463596369f9bd1e8e035b114c34c1b08 *NEWS.md
+03a055988e927661e3b1b1852a7adba5 *R/data.R
+9e23c7cc40adae5c48398608f0ef2259 *README.md
+ad7d1ddc59b3aa2c999e72ef09c0f6bc *data/Cal_elec.rda
+ffbec638e8f108dc2c1c8255d4e09cc4 *data/US_elec.rda
+bbea879c835b85afd0ad81057213fab6 *data/US_source.rda
+3983a96b8a32b0a1b1477b9310416f9b *man/Cal_elec.Rd
+e57d90d802578f48a964cd639dd045ae *man/US_elec.Rd
+d8cf4027240e143e4bd1b99ae149aa54 *man/US_source.Rd
+2dc0fcadddaa5bf58b88148b3d41a493 *tests/testthat.R
+60db0e3d46804d049f0353052e86d61f *tests/testthat/test-dataset.R
